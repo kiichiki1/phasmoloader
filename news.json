@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "id": 8,
+      "title": "PhasmoMenu v0.5.7.8 FIXED Released",
+      "date": "2025-11-17",
+      "category": "hotfix",
+      "version": "0.5.7.8",
+      "content": [
+        "Fixed Lua error not allowing menu to open."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "PhasmoMenu v0.5.7.7 Released",
+      "date": "2025-10-21",
+      "category": "update",
+      "version": "0.5.7.7",
+      "content": [
+        "• Fixed for current game update.",
+        "• Fixed CompleteMissions not working properly",
+        "• Fixed AntiFallTeleport script (Allows you to leave the map without being teleported back in)"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "PhasmoMenu v0.5.7.6 Released",
+      "date": "2025-10-10",
+      "category": "update",
+      "version": "0.5.7.6",
+      "content": [
+        "• Fixed for current game update."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "PhasmoMenu v0.5.7.5 Released",
+      "date": "2025-10-04",
+      "category": "feature",
+      "version": "0.5.7.5",
+      "content": [
+        "• Added a Config section where you can save and load different presets.",
+        "• The \"Save\" buttons will save almost all of the currently activated features. And will create a txt file in the selected folder.",
+        "• The \"Load\" buttons will load and enable the features saved in the selected preset."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "PhasmoMenu v0.5.7.3 Released",
+      "date": "2025-09-16",
+      "category": "update",
+      "version": "0.5.7.3",
+      "content": [
+        "• Fixed for current game update."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "PhasmoMenu v0.5.7.1 Released",
+      "date": "2025-08-16",
+      "category": "update",
+      "version": "0.5.7.1",
+      "content": [
+        "• Fixed for current game update."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "PhasmoMenu v0.5.7.0 Released",
+      "date": "2025-08-13",
+      "category": "update",
+      "version": "0.5.7.0",
+      "content": [
+        "• Fixed for current game update."
+      ]
+    },
+    {
+      "id": 1,
+      "title": "PhasmoMenu v0.5.6.8 Released",
+      "date": "2025-07-15",
+      "category": "update",
+      "version": "0.5.6.8",
+      "content": [
+        "• Fixed for current game update.",
+        "• Fixed EditLevel"
+      ]
+    },
+    {
+      "id": 0,
+      "title": "PhasmoMenu v0.5.6.7 Released",
+      "date": "2025-07-11",
+      "category": "update",
+      "version": "0.5.6.7",
+      "content": [
+        "• Fixed for current game update."
+      ]
+    }
+  ]
+}
